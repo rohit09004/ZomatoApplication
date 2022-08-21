@@ -6,6 +6,9 @@ public class POM1 {
 		// TODO Auto-generated method stub
 
 		System.out.println("one");
+		System.out.println("two");
+		System.out.println("three");
+		
 	}
 
 }
